@@ -14,8 +14,8 @@ public class Monitor {
     private String modelo;
     private int pulgadas;
 
-    // Monitor() {
-   // }
+     Monitor() {
+    }
 
     public Monitor(String marca, String modelo, int pulgadas) {
         this.marca = marca;

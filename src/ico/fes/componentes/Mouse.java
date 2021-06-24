@@ -14,8 +14,8 @@ public class Mouse {
     private String modelo;
     private String tipo;
 
-   // public Mouse() {
-    //}
+    public Mouse() {
+    }
 
     public Mouse(String marca, String modelo, String tipo) {
         this.marca = marca;

@@ -15,8 +15,8 @@ public class Teclado {
     private int NumerodeTeclas;
     private int multimedia;
 
-   // public Teclado() {
-    //}
+    public Teclado() {
+    }
 
         public Teclado(String marca, String modelo, int NumerodeTeclas, int multimedia) {
         this.marca = marca;

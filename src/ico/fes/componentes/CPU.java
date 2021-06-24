@@ -14,8 +14,8 @@ public class CPU {
     private String modelo;
     private int velocidadProcesador;
 
-   // public CPU() {
-  //  }
+    public CPU() {
+    }
 
     public CPU(String marca, String modelo, int velocidadProcesador) {
         this.marca = marca;
